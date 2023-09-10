@@ -1,0 +1,8 @@
+.row{
+  display: flex;
+  gap: 25px;
+  background-color: rgb(174, 166, 75);
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}

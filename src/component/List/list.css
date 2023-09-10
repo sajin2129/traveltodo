@@ -1,0 +1,43 @@
+.checking{
+    width: 15px;
+    height: 15px;
+}
+.close{
+    border: none;
+    color: rgb(180, 166, 166);
+    background-color: brown;
+    font-size: 15px;
+}
+.label{
+    color: aliceblue;
+    font-size: 20px;
+}  
+.row{
+    position: relative;
+} 
+.sort, .clearList{
+    position: absolute;
+    bottom: 20px;
+}
+.sort{
+    left: 35%;
+    color: rgb(217, 223, 49);
+    background-color: rgb(21, 23, 91);
+    border: none;
+    padding: 10px 20px ;
+    font-size: medium;
+    font-weight: 600;
+    
+}
+.clearList{
+    left: 60%;
+    color: rgb(210, 204, 30);
+    background-color: rgb(21, 23, 91);
+    border: none;
+    padding: 10px 20px ;
+    font-size: medium;
+    font-weight: 600;
+}
+.line{
+    text-decoration: line-through;
+}
